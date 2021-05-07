@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Justin Reppert
 
-A data scientist software engineer with a background in applied statistics 📊 and the philosophy of mathematics, I like building practical tools using machine learning models and thinking about ML infrastructure ☁️, measuring and monitoring model performance ⏱, and ETL pipelines.
+A data scientist and software engineer with a background in applied statistics 📊 and the philosophy of mathematics, I like building practical tools using machine learning models and thinking about ML infrastructure ☁️, measuring and monitoring model performance ⏱, and ETL pipelines.
 
 Check out some of my projects:
 
