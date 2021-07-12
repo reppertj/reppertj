@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Justin Reppert
 
-A data scientist and software engineer with a background in applied statistics 📊 and the philosophy of mathematics, I like building practical tools using machine learning models and thinking about ML infrastructure ☁️, measuring and monitoring model performance ⏱, and ETL pipelines.
+A data scientist and software engineer with a background in applied statistics 📊 and the philosophy of mathematics, I like building practical tools using machine learning models and thinking about ML infrastructure ☁️, measuring and monitoring model performance ⏱, and ETL pipelines. I work at [Ought](https://ought.org/), where we're building [Elicit](https://elicit.org/), an AI-powered research assistant.
 
 Check out some of my projects:
 
@@ -12,4 +12,4 @@ I have a PhD in Philosophy, with a dissertation defending a classical phenomenol
 
 Before and during graduate school, I helped support international development evaluations for companies including [Social Impact](https://socialimpact.com/), [DevTech](https://devtechsys.com/), and the [QED Group](https://www.qedgroupllc.com/). Ask me about using experimental methods to learn about development effectiveness and making stats-heavy reports clear and readable to subject-matter experts and management.
 
-I'm currently looking for work in data science, ML, and backend roles. Read more at [justinreppert.com](https://www.justinreppert.com/) or reach out to talk via [LinkedIn](https://www.linkedin.com/in/justinreppert/) or email at justin [at] justinreppert [dot] com.
+Read more at [justinreppert.com](https://www.justinreppert.com/) or reach out to talk via [LinkedIn](https://www.linkedin.com/in/justinreppert/) or email at justin [at] justinreppert [dot] com.
