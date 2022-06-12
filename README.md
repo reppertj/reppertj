@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Justin Reppert
 
-A data scientist and software engineer with a background in applied statistics 📊 and the philosophy of mathematics, I like building practical tools using machine learning models and thinking about ML infrastructure ☁️, measuring and monitoring model performance ⏱, and ETL pipelines. I work at [Ought](https://ought.org/), where we're building [Elicit](https://elicit.org/), an AI-powered research assistant.
+A machine learning engineer with a background in applied statistics 📊 and the philosophy of mathematics, I like building practical tools using machine learning models and thinking about ML infrastructure ☁️, measuring and monitoring model performance ⏱, and ETL pipelines. I work at [Ought](https://ought.org/), where we're building [Elicit](https://elicit.org/), an AI-powered research assistant.
 
 Check out some of my projects:
 
